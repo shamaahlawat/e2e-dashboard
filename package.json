@@ -31,7 +31,7 @@
     "license": "MIT",
     "dependencies": {
         "antd": "3.4.1",
-        "axios": "0.18.0",
+        "axios": "0.21.1",
         "bizcharts": "3.1.10",
         "classnames": "2.2.5",
         "dot-prop-immutable": "1.4.0",
